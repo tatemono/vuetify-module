@@ -36,8 +36,8 @@
     "vuetify-loader": "^1.6.0"
   },
   "devDependencies": {
-    "@commitlint/cli": "^8.3.5",
-    "@commitlint/config-conventional": "^8.3.4",
+    "@commitlint/cli": "^12.0.1",
+    "@commitlint/config-conventional": "^12.0.1",
     "@nuxt/typescript-build": "^0.6.7",
     "@nuxt/typescript-runtime": "^0.4.10",
     "@nuxtjs/eslint-config-typescript": "^1.0.2",
